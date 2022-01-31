@@ -25,7 +25,7 @@ SECRET_KEY = 't1@r%8(*7*ds)1=z^_w1bos&9s@!5x=6scrnbp7^x%@$2ou5a#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [smpms.azurewebsites.net]
 
 
 # Application definition
