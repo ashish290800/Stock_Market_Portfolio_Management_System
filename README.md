@@ -18,12 +18,4 @@
 
 
 
-# Screenshots of the Project
-<p align="center">
-  <img width="660" height="300" src="quotes/screenshots/a.png">
-  <img width="660" height="300" src="quotes/screenshots/b.png">
-</p>
 
-**Copyright (c)** 2020-3020 Md. Omar Faruk
-
-## Go Through This Site Then You Will Know About This Site Properly.
